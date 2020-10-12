@@ -1,0 +1,21 @@
+body{
+    /* min-height: 400px; */
+    background: url('../img/mypic.jpg') no-repeat 0 -500px;
+    text-align: left;
+    /* background-size: cover;     */
+}
+.makewhite{
+    color: white;
+}
+.remdec a{
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    text-transform: 16px;
+    white-space: pre;
+}
+.textalli{
+    padding-left: 10%;
+    display: flex;
+    justify-content: center;
+}
